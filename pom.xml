@@ -42,6 +42,7 @@
     <modules>
         <module>big-talk-design-patterns</module>
         <module>singleton</module>
+        <module>startegy</module>
     </modules>
 
     <dependencyManagement>
